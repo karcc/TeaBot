@@ -1,2 +1,2 @@
-# FrostBot
+# TeaBot
 Discord bot
