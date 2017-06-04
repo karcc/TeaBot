@@ -1,0 +1,2 @@
+# FrostBot
+Discord bot
